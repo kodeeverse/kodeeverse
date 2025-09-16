@@ -1,6 +1,6 @@
 # kodeeverse
 
-Welcome to the world of [Kodee](https://blog.jetbrains.com/kotlin/2023/04/the-kotlin-mascot-returns/)!
+TBD
 
 ### License
 
